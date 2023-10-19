@@ -1,0 +1,26 @@
+          /* element selector  */
+p{
+    color: violet;
+}
+
+        /* id selector  */
+#para1{
+    color: aqua;
+    text-align: center;
+}
+
+          /* class selector  */
+.para2{
+    color: yellow;
+}
+
+          /* group selector  */
+article , section{
+    color: brown;
+}
+
+             /* child selector  */
+div>p{
+    color: yellowgreen;
+}
+
