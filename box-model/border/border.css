@@ -1,0 +1,23 @@
+.section-border{
+    width: 900px;
+    background-color: #fff;
+}
+
+#main-heading{
+    font-size: 64px;
+    color: #1e1403;
+}
+
+p{
+    border: 12px solid #003180;
+
+}
+
+div{
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    border-radius: 100% 0% 100% 0% / 100% 0% 100% 0% ;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,38,1) 35%, rgba(70,116,125,1) 100%); 
+}

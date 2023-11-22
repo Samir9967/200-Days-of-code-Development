@@ -1,0 +1,21 @@
+                   /* pixels(px) */
+/* h1{
+    /* font: size 32px; ; */
+/* }  */
+
+p{
+    font-size: 18px;
+}
+
+/* li{
+    /* font-size: 20px; */
+/* }  */
+
+                     /* percentage(%) */
+h1{
+    font-size: 200%;
+}
+
+li{
+    font-size: 125%;
+}

@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* section{
+    width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(to left, red, blue);
+} */
+
+section{
+width: 100vw;
+height: 100vh;
+/* background-image: linear-gradient(to left, red, blue); */
+background-image: radial-gradient(yellow, pink,black);
+
+}

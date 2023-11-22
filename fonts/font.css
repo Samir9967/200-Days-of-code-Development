@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Playpen+Sans:wght@100;300&display=swap');
+
+@font-face {
+    font-family: 'samir-Font';
+    src: url('Jonathan\ Hetegral.otf');
+}
+h1{
+    /* font-family: 'Playpen Sans', cursive; */
+    font-family: 'samir-Font';
+    font-size: 30px;
+    font-weight: 500;
+    font-variant: small-caps;
+}
+
+p{
+    font-family: 'Playpen Sans', cursive;
+    font-size: 20px;
+}
+
+a{
+    font-family: 'Playpen Sans', cursive;
+    font-size: 20px;
+}
+
+.hero-section{
+    display: grid;
+    place-items: center;
+}

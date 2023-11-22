@@ -1,0 +1,18 @@
+/* /* h1{
+    /* color: rgba(116, 19, 19,0.5); */
+    /* color: #b5960b; */
+/* }  */
+#hero-section{
+    color: #19b919;
+}
+
+p{
+    /* color: transparent; */
+    /* color: currentColor; */
+    color: violet;
+    color: currentColor;
+}
+      /* Using hsl */
+#para2{
+    color: hsl(0, 82%, 37%);
+}

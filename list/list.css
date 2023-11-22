@@ -1,0 +1,9 @@
+/* .lists{
+    list-style-type: decimal;
+} */
+
+ul{
+    /* list-style-type:decimal; */
+    list-style-position: inside;
+    list-style: square;
+}

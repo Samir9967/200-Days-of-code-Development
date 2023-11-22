@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.section-one{
+    width: 900px;
+    text-align: center;
+    border: 10px solid;
+    background-color: aqua;
+    /* margin-top: 20px; */
+    margin: 100px;
+}

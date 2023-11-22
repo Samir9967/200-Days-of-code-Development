@@ -1,0 +1,25 @@
+body{
+    width: 100vw;
+    height: 100vh;
+            /* background-color  */
+    background-color: hsl(0, 0%, 94%);
+                /* background-image  */
+    background-image: url('ganesh-ji.webp');
+    /* background-image: url('zbx91.webp'); */
+                /* background-repeat  */
+    background-repeat: no-repeat;
+                /* background-size  */
+    /* background-size: cover; */
+    background-size: 100% 100%;
+    /* background-blend-mode: lighten; */
+
+                 /* background-attachment */
+    background-attachment: scroll;
+}
+
+p{
+    color: antiquewhite;
+}
+h1{
+    color:turquoise ;
+}
